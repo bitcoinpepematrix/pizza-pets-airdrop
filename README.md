@@ -8,8 +8,13 @@ Rules on how to apply for the airdrop of Pizza Pets to BITCOIN•PEPE•MATRIX h
 
 ## RULES
 
-- You are BITCOIN•PEPE•MATRIX holder
+- You are BITCOIN•PEPE•MATRIX holder with at least 69,420 tokens
 - To make a chance on a free airdrop you will need to register on our website through this [link](https://bitcoinpepematrix.com/pizza/pets/raffle)
+- For every 69,420 you are holding on the addreess you will provide you will get one entry to the raffle
+- Listed BITCOIN•PEPE•MATRIX on marketplaces are not eligible for the raffle
+- You will need to hold your BITCOIN•PEPE•MATRIX till the end of the registration period and/or the date of the airdrop, otherwise you will be disqualified for the free airdrop
+- Start date of registration: TBA
+- End date of registration: TBA
 - ...
 
 > Official announcement of the collaboration with Pizza Pets has been made through this post on the [X account of BITCOIN•PEPE•MATRIX
