@@ -9,7 +9,7 @@ Rules on how to apply for the airdrop of Pizza Pets to BITCOIN•PEPE•MATRIX h
 ## RULES
 
 - You are BITCOIN•PEPE•MATRIX holder
-- To make a chance of a free airdrop you will need to register on our website through this [link](https://bitcoinpepematrix.com/pizza/pets/raffle)
+- To make a chance on a free airdrop you will need to register on our website through this [link](https://bitcoinpepematrix.com/pizza/pets/raffle)
 - ...
 
 > Official announcement of the collaboration with Pizza Pets has been made through this post on the [X account of BITCOIN•PEPE•MATRIX
