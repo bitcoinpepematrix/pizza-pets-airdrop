@@ -25,3 +25,11 @@ Rules on how to apply for the airdrop of Pizza Pets to BITCOIN•PEPE•MATRIX h
 - ...
 
 <p align="center"><a href="https://bitoinpepematrix.com/pizza/pets" target="_blank"><img src="https://github.com/bitcoinpepematrix/pizza-pets-airdrop/blob/main/images/pizza_pets_collab_tweet.png" width="100%" alt="Official Partner of Pizza Pets"></a></p>
+
+[link-website]: https://bitcoinpepematrix.com
+[link-twitter-mvdnbrk]: https://x.com/mvdnbrk
+[link-twitter-bitcoin-pepe-matrix]: https://x.com/BTCPepeMatrix
+[link-twitter-pizza-pets]: https://x.com/Pizza_Pets
+[link-twitter-pizza-ninjas]: https://x.com/Pizza_Ninjas
+[link-twitter-mega-punks]: https://x.com/MegaPunks_BTC
+
