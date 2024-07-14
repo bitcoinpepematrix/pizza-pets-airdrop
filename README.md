@@ -13,6 +13,7 @@ Rules on how to apply for the airdrop of Pizza Pets to BITCOIN•PEPE•MATRIX h
 - For every 69,420 you are holding on the address you will provide you will get one entry to the raffle
 - Listed BITCOIN•PEPE•MATRIX tokens on marketplaces are not eligible for the raffle
 - You will need to hold your BITCOIN•PEPE•MATRIX till the end of the registration period and/or the date of the airdrop, otherwise you will be disqualified for the free airdrop
+- You will need to provide us your X account username and make sure to follow these accounts on [X.com](https://x.com) @BTCPepeMatrix, @Pizza_Ninjas and @Pizza_Pets
 - Start date of registration: TBA
 - End date of registration: TBA
 - ...
