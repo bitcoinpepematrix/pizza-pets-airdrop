@@ -6,6 +6,12 @@ Rules on how to apply for the airdrop of Pizza Pets to BITCOIN•PEPE•MATRIX h
 
 <p align="center"><a href="https://bitoinpepematrix.com/pizza/pets" target="_blank"><img src="https://github.com/bitcoinpepematrix/pizza-pets-airdrop/blob/main/images/have_an_eggecelent_day.png" width="100%" alt="Bitcoin Pepe Matrix collab with Pizza Pets"></a></p>
 
+## RULES
+
+- You are BITCOIN•PEPE•MATRIX holder
+- To make a chance of a free airdrop you will need to register on our website through this [link](https://bitcoinpepematrix.com/pizza/pets/raffle)
+- ...
+
 > Official announcement of the collaboration with Pizza Pets has been made through this post on the [X account of BITCOIN•PEPE•MATRIX
 ](https://x.com/BTCPepeMatrix/status/1811071647656362172)
 
