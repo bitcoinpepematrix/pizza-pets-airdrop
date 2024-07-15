@@ -21,7 +21,7 @@ Rules on how to apply for the airdrop of Pizza Pets to BITCOIN•PEPE•MATRIX h
 - Listed BITCOIN•PEPE•MATRIX tokens on marketplaces are not eligible for the raffle
 - You will need to hold your BITCOIN•PEPE•MATRIX till the end of the registration period and/or the date of the airdrop, otherwise you will be disqualified for the free airdrop
 - You will need to provide us your X account username and make sure to follow these accounts on [X.com](https://x.com) @BTCPepeMatrix, @Pizza_Ninjas and @Pizza_Pets
-- All the code for this raffle will be published here (link TBA) in a pull request, everyone can review the code before it goes live. If you'll find any issues please report them in the pull request.
+- All the code for this raffle will be published [here](https://github.com/bitcoinpepematrix/bitcoinpepematrix.com/tree/raffle), everyone can review the code before it goes live. If you'll find any issues please report them in using the [issue tracker](https://github.com/bitcoinpepematrix/bitcoinpepematrix.com/issues).
 - ...
 
 <p align="center"><a href="https://bitoinpepematrix.com/pizza/pets" target="_blank"><img src="https://github.com/bitcoinpepematrix/pizza-pets-airdrop/blob/main/images/pizza_pets_collab_tweet.png" width="100%" alt="Official Partner of Pizza Pets"></a></p>
